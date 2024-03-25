@@ -1,2 +1,0 @@
-# cmpg111
-Assignment
